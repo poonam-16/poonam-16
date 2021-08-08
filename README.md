@@ -1,26 +1,19 @@
-<h1 align="center">Hi 👋, I'm Poonam Deshmukh</h1>
-<h3 align="center">A Statistics major stepping into Data Science</h3>
+### Hi there 👋, I'm Poonam Deshmukh
+#### A Statistics major stepping into Data Science
+
+- 🔭 I’m currently working on this page. 
 
 
-- 📝 I recently started writing articles on [Medium](https://deshmukhpoonam516.medium.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/poonam-16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/poonam-deshmukh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/poonam.deshmukh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/poonam_deshmukh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://deshmukhpoonam516.medium.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/pdkaggle16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](poonamdeshmukh616@gmail.com)  
 
-- 📫 Reach me at **poonamdeshmukh616@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=poonam-16)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-16)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/poonam-deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poonam-deshmukh" height="30" width="40" /></a>
-<a href="https://kaggle.com/pdkaggle16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pdkaggle16" height="30" width="40" /></a>
-<a href="https://medium.com/@deshmukhpoonam516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deshmukhpoonam516" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-16&show_icons=true&count_private=true)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poonam-16" alt="poonam-16" /></a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=poonam-16)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poonam-16&show_icons=true&locale=en" alt="poonam-16" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=poonam-16)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poonam-16&show_icons=true&locale=en&layout=compact" alt="poonam-16" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poonam-16&" alt="poonam-16" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poonam-16&label=Profile%20views&color=0e75b6&style=flat" alt="poonam-16" /> </p>
+![Profile views](https://gpvc.arturio.dev/poonam-16)  
