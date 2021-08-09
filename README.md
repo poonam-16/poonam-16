@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋 I'm Poonam Deshmukh</h1>
 <h3 align="center">A Statistics major stepping into Data Science</h3>
 
-![GitHub](This PC\Downloads\GitHub%20Image.jpeg)
+
+<img src = "Image.jpg" height = "100'>
+![](Image.jpg)
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
