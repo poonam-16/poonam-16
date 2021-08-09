@@ -2,8 +2,8 @@
 <h3 align="center">A Statistics major stepping into Data Science</h3>
 
 
-<img src = "Image.jpg" height = "100'>
-![](Image.jpg)
+<p align = "right" > <img src = "Image.jpg" height = "250" width = "250"> </p>
+
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
