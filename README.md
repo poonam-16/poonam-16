@@ -4,14 +4,14 @@
 <br> </br>
 <h3><b> About Me : </b></h3>
 <h3>🔹A 3rd year Statistics major stepping into Data Science 👩‍💻</h3>
-<h3>🔹Loading ...</h3>
-<h3>🔹Loading ...</h3>
-<h3>🔹Loading ...</h3>
+<h3>🔹Multilingual person who understands data and speaks in statistics as well as programming languages 🎯</h3>
+<h3>🔹Goal is to convert data into information and information into insights 📊</h3>
+
 <br> </br>
 &nbsp; &nbsp;
 &nbsp; &nbsp;
 <br> </br>
-<h2 align="center"><b>Connect with me :<b></h2>
+<h2 align="center"><b>Talk to me about Data 🔎 :<b></h2>
 <p align="center">
 <a href="https://linkedin.com/in/poonam-deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poonam-deshmukh" height="40" /></a> &nbsp; &nbsp;
 <a href = "https://public.tableau.com/app/profile/poonam.deshmukh" target ="blank"><img align = "center" src = "https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt = "tableau" height = "40"/></a> &nbsp; &nbsp;
