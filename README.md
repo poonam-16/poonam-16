@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 I'm Poonam Deshmukh</h1>
 
-<img align = "right" src = "graphics2.jpg" height = "350" width = "350"> &nbsp; &nbsp; 
+<img align = "right" src = "graphics.jpg" height = "350" width = "350"> &nbsp; &nbsp; 
 <br> </br>
 <h3><b> About Me : </b></h3>
 <h3>🔹A 3rd year Statistics major stepping into Data Science 👩‍💻</h3>
