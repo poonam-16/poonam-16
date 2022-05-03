@@ -3,19 +3,15 @@
 <img align = "right" src = "hello.png" height = "350" width = "400"> &nbsp; &nbsp; 
 <br> </br>
 <h3><b> About Me : </b></h3>
+<h3>
+👩‍🎓 Recent Graduate in Statistics <br> </br>
+🌈 #IamRemarkable Facilitator <br> </br>
 
-👩‍🎓 Recent Graduate in Statistics
-
-⚡️ Community Advocate at [Women in Analytics (WIA)](https://www.womeninanalytics.com/team)
-
-📝 Mentorship Co-Director at [Command Tech <>](https://commandtech.dev/)
-
-🌟 Community Outreach Lead & Global Ambassador at [WomenTech Network](https://www.womentech.net/en-in)
-
-🌈 #IamRemarkable Facilitator
-
+⚡️ Community Advocate at [Women in Analytics (WIA)](https://www.womeninanalytics.com/team)<br> </br>
+📝 Mentorship Co-Director at [Command Tech <>](https://commandtech.dev/)<br> </br>
+🌟 Community Outreach Lead & Global Ambassador at [WomenTech Network](https://www.womentech.net/en-in)<br> </br>
 🔥 More amazing things coming soon!!
-
+</h3>
 <br> </br>
 &nbsp; &nbsp;
 &nbsp; &nbsp;
